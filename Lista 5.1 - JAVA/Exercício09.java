@@ -11,12 +11,6 @@ public class Exercício09 {
 
                  while (contador <= 500) {
                     soma = contador + soma;
-
-                   if (contador % 2 == 0) {
-                    
-                    
-                    
-                   }
                    contador = contador + 2;
                  }
                  System.out.println(soma);
