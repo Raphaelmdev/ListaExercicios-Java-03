@@ -1,5 +1,3 @@
-import util.Keyboard;
-
 public class Exercício13 {
     public static void main(String[] args) {
 
@@ -24,6 +22,7 @@ public class Exercício13 {
                         a++;
                     }
                     System.out.println("====================================");
+                    System.out.println("------------------------------------");
                     System.out.println("====================================");
                 }
             }

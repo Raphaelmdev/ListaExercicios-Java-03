@@ -18,12 +18,16 @@ public class Exercício06 {
 
                     int x = Keyboard.readInt("INSIRA UM NÚMERO: ");
                         System.out.println("TABUADA DE: " + x);
+
                     int controle = 1;
-                        
+                    int s;    
 
                     while(controle <= 10 ){
-                        int s = x * controle;
+
+                        s = x * controle;
+
                         System.out.println(x + " . " + controle  + " = " + s);
+                        
                         controle++;
                     }    
                 }

@@ -1,5 +1,3 @@
-import util.Keyboard;
-
 public class Exercício10commath {
     public static void main(String[] args) {
 

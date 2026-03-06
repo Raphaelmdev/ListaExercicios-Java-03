@@ -1,5 +1,3 @@
-import util.Keyboard;
-
 public class Exercício09 {
     public static void main(String[] args) {
         //9) Elaborar um programa que apresente no final a soma dos valores pares existentes na faixa de 0 até 500. Utilize 

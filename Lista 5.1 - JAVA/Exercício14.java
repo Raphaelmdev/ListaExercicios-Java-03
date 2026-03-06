@@ -1,5 +1,3 @@
-import util.Keyboard;
-
 public class Exercício14 {
     public static void main(String[] args) {
 
